@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A06D82A5-0CDB-4A0C-910E-D14BA68B4DE8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F2044BD-D740-469D-9096-7C67A3DFF773"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrderApp/ViewController/MenuTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "configureCell(_:forMenuItemAtIndexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20D03E5C-1153-448A-AA58-CB1D0BD6749D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrderApp/ViewController/MenuTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "configureCell(_:forMenuItemAtIndexPath:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "20D03E5C-1153-448A-AA58-CB1D0BD6749D - c2b24cb695409cd0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OrderApp.MenuTableViewController.configureCell(_: __C.UITableViewCell, forMenuItemAtIndexPath: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "OrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegbabyr/Desktop/%D0%9A%D0%BE%D0%B4/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B.%20Apple./OrderApp/OrderApp/ViewController/MenuTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1234">
+               </Location>
+               <Location
+                  uuid = "20D03E5C-1153-448A-AA58-CB1D0BD6749D - 94e920a3313acdd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in OrderApp.MenuTableViewController.configureCell(_: __C.UITableViewCell, forMenuItemAtIndexPath: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "OrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegbabyr/Desktop/%D0%9A%D0%BE%D0%B4/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B.%20Apple./OrderApp/OrderApp/ViewController/MenuTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "329">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84D826FD-257A-4979-815D-26C91C6DFDBC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrderApp/ViewController/MenuTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "configureCell(_:forMenuItemAtIndexPath:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84D826FD-257A-4979-815D-26C91C6DFDBC - 94e920a3313acfa"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in OrderApp.MenuTableViewController.configureCell(_: __C.UITableViewCell, forMenuItemAtIndexPath: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "OrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegbabyr/Desktop/%D0%9A%D0%BE%D0%B4/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B.%20Apple./OrderApp/OrderApp/ViewController/MenuTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "385">
+               </Location>
+               <Location
+                  uuid = "84D826FD-257A-4979-815D-26C91C6DFDBC - b435217bbec5b229"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in OrderApp.MenuTableViewController.configureCell(_: __C.UITableViewCell, forMenuItemAtIndexPath: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "OrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegbabyr/Desktop/%D0%9A%D0%BE%D0%B4/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B.%20Apple./OrderApp/OrderApp/ViewController/MenuTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "205">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "319EA70E-B577-4E14-BE48-1116147734B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrderApp/MenuController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "fetchImage(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72A007CA-6B7F-42C5-A419-633650AF41A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrderApp/MenuController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "fetchImage(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
